@@ -18,7 +18,7 @@
         <div class="container">
             <div class="navbar">
                 <div class="logo">
-                    <a href="/">
+                    <a href="#">
                         <img src="images/dc-logo.png" alt="DC logo">
                     </a>
                 </div>

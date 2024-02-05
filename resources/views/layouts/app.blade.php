@@ -6,12 +6,10 @@
 
         <title>@yield("page-title","Laravel DC Comics")</title>
 
-        <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-        {{-- STYLE --}}
-        <link rel="stylesheet" href="../../scss/app.scss">
+        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
     </head>
     <body>
